@@ -1,0 +1,73 @@
+.loginpage{
+    width:100% ;
+    height: 100%;
+    background : url("https://protrade-trial.vndirect.com.vn/static/media/pt_trial.a0934fd1.svg") ,
+    url('../../assets/image/bg.jpg')  ;
+    background-size: 350px , cover ;
+    background-repeat: no-repeat no-repeat ;
+    background-position: 50% 14%, center bottom ;
+    position: fixed;
+    top:0px;
+    left:0px ;
+    color:#444 ;
+}
+
+.loginpage__form{
+    position: absolute;
+    top:calc(50% + 120px) ;
+    left:50% ;
+    transform: translate(-50% , -65%);
+    width:350px ;
+    height: auto ;
+    background : rgb(248, 248, 248) ;
+    border-radius: 6px;
+    padding:20px 0px ;
+}
+.loginpage__form__title{
+    text-align:center ;
+    font-weight: bold;
+    color:#444 ;
+}
+.loginpage__form__content{
+    width:60% ;
+    margin:auto ;
+    padding:10px 0px 15px 0px ;
+}
+.group-form{
+    margin:10px 0px ;
+}
+.group-form__label{
+    display: block;
+}
+.group-form__input__login{
+    width:100% ;
+    height: auto;
+    padding:6px ;
+    border-radius: 6px;
+    border:1px solid rgba(0,0,0,.2) ;
+    outline: none;    
+}
+.group-form__input__login:hover{
+    border:1px solid #f7941d ; 
+}
+.btn-login{
+    width:100% ;
+    background : #f7941d  ;
+    border-radius: 6px;
+}
+
+/*  */
+.loginpage__form__help{
+    border-top:1px solid rgba(0,0,0,.2) ;
+    padding:15px 0px  ;
+}
+.btn-open-account{
+    width:100% ;
+    background : #18c451 ;
+    border-radius: 6px; 
+}
+.link-help{
+    color:#444 ;
+    text-decoration: none; 
+    font-size: 15px;
+}

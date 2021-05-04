@@ -1,0 +1,23 @@
+.chart__bottom{
+    overflow: auto;
+}
+.chart__bottom__table{
+    width: 100%;
+    color: #fff ;
+    font-size: 14px;
+    border-collapse: collapse ;
+}
+.chart__bottom__table tr:nth-child(even){
+    background : hsla(0,0%,47.1%,.15) ;
+}
+th{
+    text-align:center ;
+}
+tr , th ,td{
+    padding:2px ;
+    text-align:center ;
+}
+.chart__bottom__table tr ,
+.chart__bottom__table td{
+    padding:6px !important ;
+}

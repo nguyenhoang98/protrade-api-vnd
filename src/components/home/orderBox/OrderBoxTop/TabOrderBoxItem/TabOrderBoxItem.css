@@ -1,0 +1,15 @@
+.btn-zero , 
+.btn-delete{
+    border:none ;
+    outline: none;
+    padding:2px ;
+    border-radius: 3px;
+    font-size: 12px;
+}
+.btn-delete{
+    background : #f7941d ;
+}
+.btn-zero {
+    background: #ccc;
+    margin-left:2px ;
+}

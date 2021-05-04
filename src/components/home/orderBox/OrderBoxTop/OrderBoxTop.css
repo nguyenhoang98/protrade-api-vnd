@@ -1,0 +1,24 @@
+.order-box-top{
+    position: relative ;
+    overflow: auto;
+}
+.order-box-top-tab{
+    color:#fff ;
+    display: none;
+}
+.showTab{
+    display: block;
+}
+.order-box-top-tab-1-table{
+    width: 100%;
+    height:100% ;
+    border:none ; ;
+    border-collapse: collapse;
+}
+.order-box-top-tab-1-table tr:nth-child(even){
+    background :  hsla(0,0%,47.1%,.15)  ;
+}
+.order-box-top-tab-1-table tr ,
+.order-box-top-tab-1-table td{
+    padding:6px !important ;
+}

@@ -1,0 +1,8 @@
+
+.chart__bottom__item{ 
+    height:100% ;
+    display: none;
+}
+.showMenuTabTradingView{
+    display: block;
+}

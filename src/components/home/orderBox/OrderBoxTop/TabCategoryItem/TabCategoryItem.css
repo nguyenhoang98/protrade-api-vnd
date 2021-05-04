@@ -1,0 +1,10 @@
+
+.btn-close , 
+.btn-reverse{
+    background: red;
+    color:white ;
+    padding:3px !important ;
+    margin:2px;
+    cursor: pointer;
+    border-radius: 5px;
+}

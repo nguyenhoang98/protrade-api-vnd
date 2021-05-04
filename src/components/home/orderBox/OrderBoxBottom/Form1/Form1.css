@@ -1,0 +1,32 @@
+
+
+.tooltip-container{
+    position: relative;
+}
+.tooltip-content{
+    position: absolute;
+    top:40px; 
+    left:-50px ;
+    background : rgb(15, 15, 15) ;
+    color:white  ;
+    padding:0 6px ;
+    width:250px ;
+    height: auto ;
+    opacity: .8;
+    border:1px solid white ;
+    padding:6px ;
+    border-radius: 6px;
+}
+.tooltip-item {
+    border:1px solid white ;
+    padding:2px ;
+    border-radius: 3px ;
+    cursor: pointer;
+}
+.caret-top{
+    position: absolute;
+    border:6px solid ;
+    border-color : transparent transparent white  transparent  ;
+    top:-13px ;
+    left:62px ;
+}

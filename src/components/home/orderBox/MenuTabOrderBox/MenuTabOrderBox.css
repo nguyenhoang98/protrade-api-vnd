@@ -1,0 +1,17 @@
+.menu__tab{
+    width:100% ;
+    height: 30px; 
+    position: absolute;
+    bottom:0px ;
+    right:0 ;
+    background : #131722 ;
+}
+.menu__tab__link{
+    color:white ;
+    width:33.33333% ;
+    text-align:center ;
+    display: inline-block;
+    line-height: 30px;
+    cursor: pointer;
+    font-size: 13px;
+}

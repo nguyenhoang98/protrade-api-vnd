@@ -1,0 +1,11 @@
+.notfound{
+    background-color: rgb(235, 232, 232);
+    height:calc(100vh- 50px)
+}
+.notfound__img{
+    width:50%; 
+    height: 50%;
+    display: block;
+    margin:10px auto ;
+
+}

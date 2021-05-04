@@ -1,0 +1,12 @@
+.price-top-tab-2{
+    width:100% ;
+    font-size: 13px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.price-top-tab-2 > div {
+    text-align:Center ;
+    color : #fff ;
+    padding:5px ;
+    border-bottom: 1px solid rgb(65, 65, 65) ;
+}

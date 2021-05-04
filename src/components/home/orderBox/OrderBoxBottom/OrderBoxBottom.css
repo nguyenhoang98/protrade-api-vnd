@@ -1,0 +1,67 @@
+.order-box-bottom{
+    color : rgb(219, 218, 218) ;
+    font-size: 14px ;
+    padding:6px ;
+    position: relative;
+}
+.order-box-bottom__content{
+    width:100% ;
+    position: absolute;
+    bottom:30px ;
+    left:0px ;
+    padding:6px ;
+    border-top:2px solid black ;
+}
+.tab__radio{
+    width:100% ;
+}
+.tab__form{
+    display: none;
+}
+.showTabForm{
+    display: block;
+}
+form{
+    width:100% ;
+    height:auto;
+}
+.group-form{
+    margin:10px 0px  ;
+}
+.group-form__input{
+    width:100% ;
+    height: auto;
+    padding:8px ;
+    border:none ;
+    outline: none;
+    /* background: #ccc; */
+    border-radius: 6px;
+}
+
+.btn-buy{
+    width: 100px;
+    background: #0f0;
+    border-radius: 6px;
+    padding: 6px;
+}
+.btn-sell{
+    width: 100px;
+    background: red;
+    border-radius: 6px;
+    padding: 6px;
+    margin: 0 6px;
+}
+.save{
+    display: inline-block;
+    transform: translateY(-2px);
+    padding-left:2px ;
+}
+.btn-prev , 
+.btn-next{
+    width : 30px ;
+    height: auto;
+    padding:8px;
+    background : white ;
+    color:black ;
+    border-radius: 6px;
+}

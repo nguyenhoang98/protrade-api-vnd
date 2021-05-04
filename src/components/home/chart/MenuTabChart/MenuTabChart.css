@@ -1,0 +1,23 @@
+.menu-tab-chart{
+    width : 100% ;
+    position: absolute;
+    bottom:0 ;
+    left:0 ;
+    background : #131722 ;
+}
+.menu-tab-chart__left{
+    color:white ;
+    font-size: 13px ;
+    line-height: 30px ;
+    padding-left:10px ;
+}
+.menu-tab-chart__right__link{
+    color:white ;
+    padding: 0 16px ;
+    text-align:center ;
+    display: inline ;
+    line-height: 30px;
+    cursor: pointer;
+    font-size: 13px;
+
+}
